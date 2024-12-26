@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["task-2.4063f338.css","src/css/task-2.css"],"sourcesContent":[".form__login, .form__email {\n  display: block;\n}\n/*# sourceMappingURL=task-2.4063f338.css.map */\n",".form__login,\n.form__email {\n  display: block;\n}"],"names":[],"version":3,"file":"task-2.4063f338.css.map"}
